@@ -37,4 +37,4 @@ print("Shortest Route:", route)
 print("Minimum Distance:", distance)
 ```
 ### output:
-![output](https://github.com/vyshu888/AIES/blob/7bbfd69496892f7151a8b88fc83eb2ad638b6cbf/Screenshot%202026-06-30%20114914.png)
+![output](https://github.com/vyshu888/AIES/blob/b4ccfa0827107d2900604271b2520e51ce35c2e6/Screenshot%202026-06-30%20114914.png)
